@@ -1,6 +1,7 @@
 # ytapi
 
-A new Flutter application.
+A simple youtube search query flutter application.
+
 
 ## Getting Started
 
